@@ -1,0 +1,34 @@
+/* p{
+    color: #ffffff;
+    background-color: black;
+} */
+* {
+    background-color: blueviolet;
+    color: yellow;
+}
+
+/* .june{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+#unique{
+    color: blue;
+    background-color: black;
+} */
+h1,
+h2,
+h3 {
+    background-color: #003650;
+    color: #ff0000;
+}
+
+input[type="text"] {
+    color: antiquewhite;
+}
+
+input[type="password"] {
+    color: red;
+}
+p.oo{
+    color: lightsalmon;
+}
